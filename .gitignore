@@ -6,7 +6,7 @@ __pycache__/
 *.pyd
 
 # Google credentials
-credentials.sample.json
+credentials.json
 token.pickle
 
 # Node
