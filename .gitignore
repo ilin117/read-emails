@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Google credentials
+credentials.sample.json
+token.pickle
+
+# Node
+node_modules/
+package-lock.json
+package.json
+
+# Mac
+.DS_Store
